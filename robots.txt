@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://kkear.github.io/lIg/sitemap.lIg.gz
